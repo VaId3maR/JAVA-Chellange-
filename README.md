@@ -1,4 +1,4 @@
-# JAVA - Challenge
+# JAVA - Challenge for QA
 
 > [!NOTE]
 > Simple Java exercises.
